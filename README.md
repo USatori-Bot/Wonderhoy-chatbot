@@ -11,6 +11,6 @@ A Project SEKAI! chatbot based on the cheerful character Emu Otori from the unit
 
 ## 🚀 How to Run  
 ```bash
-git clone https://github.com/your-username/wonderhoy-chatbot.git
+git clone https://github.com/USatori-Bot/wonderhoy-chatbot.git
 cd wonderhoy-chatbot
 python main.py
